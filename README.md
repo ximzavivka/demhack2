@@ -1,4 +1,4 @@
-## Hackathons - 2021
+## Demhack2 - 2021
 
 #### 👾 [BACKEND](https://github.com/ximzavivka/demhack2/tree/master/backend): `Java 15`, `Kotlin`  
 
